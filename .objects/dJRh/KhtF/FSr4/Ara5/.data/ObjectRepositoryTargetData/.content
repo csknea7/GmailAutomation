@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GA5VtFXgZUid90tkExTbmw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="accounts.google.com/v3/signin/challenge/pwd" CVScreenId="1e15a415-1a03-42b2-9607-bce908aabccf" CvElementArea="1508, 715, 129, 55" CvTextArea="1540, 731, 63, 18" CvTextArgument="Sonraki" CvType="Button" DesignTimeRectangle="1512, 711, 122, 60" FullSelectorArgument="&lt;webctrl class='VfPpkd-RLmnJb' parentid='passwordNext' tag='DIV' /&gt;" Guid="1fe769bc-aada-424b-ae8b-e99d9abdc50b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ESRA COŞKUN' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="63f811c35fea815d04303509a4e7c733.png" xmlns="">07rKVoNbDmkC5tPcPHOiL4g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

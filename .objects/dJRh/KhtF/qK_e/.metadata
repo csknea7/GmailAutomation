@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Oturum açın Gmail'e devam etmek için G",
+  "Type": "Screen",
+  "Id": "qK_e3BMD-E2T8DxzB_Fq_A",
+  "Reference": "XC3kWe2w30m0tYrXqkGbiQ/qK_e3BMD-E2T8DxzB_Fq_A",
+  "ParentRef": "XC3kWe2w30m0tYrXqkGbiQ/KhtF0amtPECHGE-HzHrqGw",
+  "Created": "2025-07-23T13:14:51.1013065Z",
+  "Updated": "2025-07-23T13:14:51.1013065Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

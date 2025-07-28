@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4AhrEzG1_k-wN1RmFGwAeQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="myaccount.google.com" CVScreenId="e4aaabfa-cd40-4bd4-9baf-9bf37f7d5aa7" CvTextArea="87, 295, 114, 21" CvTextArgument="Kişisel bilgiler" CvType="Text" DesignTimeRectangle="89, 292, 250, 25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Kişisel bilgiler' idx='2' tag='DIV' /&gt;" Guid="ccd425b9-e7a3-4aa9-8026-5d1bb0de02fe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google Hesabı' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce3c970ed0c7212de7d7ba9d3eabfa62.png" xmlns="">0ucdq7FEICEKTZiJMiJxtPw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

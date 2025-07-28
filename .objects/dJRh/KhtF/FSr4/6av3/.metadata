@@ -1,0 +1,14 @@
+﻿{
+  "Name": "ESRA COŞKUN",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6av3s4Yhs0mOdd0-Px4LvQ",
+  "Reference": "XC3kWe2w30m0tYrXqkGbiQ/6av3s4Yhs0mOdd0-Px4LvQ",
+  "ParentRef": "XC3kWe2w30m0tYrXqkGbiQ/FSr4jYQkJ0m9lYtWVMOwYQ",
+  "Created": "2025-07-24T12:28:08.4686634Z",
+  "Updated": "2025-07-24T12:28:08.4686634Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

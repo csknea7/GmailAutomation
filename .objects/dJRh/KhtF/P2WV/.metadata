@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Yeni Sekme - Google Chrome",
+  "Type": "Screen",
+  "Id": "P2WVIGxrSkS1aB8-kqwQEQ",
+  "Reference": "XC3kWe2w30m0tYrXqkGbiQ/P2WVIGxrSkS1aB8-kqwQEQ",
+  "ParentRef": "XC3kWe2w30m0tYrXqkGbiQ/KhtF0amtPECHGE-HzHrqGw",
+  "Created": "2025-07-23T12:54:55.6729198Z",
+  "Updated": "2025-07-23T12:54:55.6729198Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

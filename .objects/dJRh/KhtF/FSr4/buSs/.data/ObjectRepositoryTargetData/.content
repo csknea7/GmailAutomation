@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TZxHxWxSJ06QabnLNcZ93w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="accounts.google.com/v3/signin/challenge/pwd" CVScreenId="1e15a415-1a03-42b2-9607-bce908aabccf" CvElementArea="995, 524, 640, 74" CvType="InputBox" DesignTimeRectangle="1002, 528, 630, 65" ElementType="InputBoxPassword" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='whsOnd zHQkBf' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="f19d3ee7-f013-4d90-bc60-9fbdf02f1cb5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ESRA COŞKUN' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1e15a415-1a03-42b2-9607-bce908aabccf" CvElementArea="995, 524, 640, 74" CvType="InputBox" DesignTimeRectangle="1009, 550, 134, 23" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Şifrenizi girin' parentid='password' tag='DIV' type='' class='AxOyFc snByac' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Şifrenizi girin' /&gt;" Guid="7efbefb3-e31e-457b-854c-fc78320adb83" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c157a9acee0930689f3d6f082b375174.png" xmlns="">0ahlQ4C0V8E2Yn8UpATertg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

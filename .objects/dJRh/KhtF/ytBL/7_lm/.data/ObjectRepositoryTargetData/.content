@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Sq5B6s-J6kqjC3ba31Zbrg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="30e69a27-272e-4d5d-8253-0c4f84aaa689" CvElementArea="601, 445, 732, 67" CvType="InputBox" DesignTimeRectangle="601, 445, 732, 67" ElementType="InputBox" Guid="229384ba-f437-41b0-9bbd-f96a4639f5c2" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Google - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="38f2e62e8271592cf82ace5b0c831ec5.png" xmlns="">0w2_zPCJLzkyk2OuHHqFY7w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="YLeh74oBJESfHX57m5gdTQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="196ec781-310a-45b7-99fc-480bd9ea7c8c" CvElementArea="747, 545, 157, 49" CvTextArea="770, 560, 112, 20" CvTextArgument="Google'da Ara" CvType="Button" DesignTimeRectangle="747, 545, 157, 49" ElementType="Button" Guid="a783e95a-de2f-4c85-98e6-823ea43ecb1c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Google - Google Chrome' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="584cdf3ff9a63fffebf8d6db4bb8418c.png" xmlns="">0luYS8JwFAEuTlsRt0xMVEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

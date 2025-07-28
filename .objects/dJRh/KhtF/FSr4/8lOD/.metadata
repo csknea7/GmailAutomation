@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Oluştur",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8lODANdGB02wCeZkK7NBaw",
+  "Reference": "XC3kWe2w30m0tYrXqkGbiQ/8lODANdGB02wCeZkK7NBaw",
+  "ParentRef": "XC3kWe2w30m0tYrXqkGbiQ/FSr4jYQkJ0m9lYtWVMOwYQ",
+  "Created": "2025-07-24T12:18:12.8041014Z",
+  "Updated": "2025-07-24T12:18:12.8041014Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

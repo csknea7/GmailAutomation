@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Yıldızlı",
+  "Type": "Element",
+  "Id": "XHXCIgDhmk6I2ZrJMnZfvQ",
+  "Reference": "XC3kWe2w30m0tYrXqkGbiQ/XHXCIgDhmk6I2ZrJMnZfvQ",
+  "ParentRef": "XC3kWe2w30m0tYrXqkGbiQ/FSr4jYQkJ0m9lYtWVMOwYQ",
+  "Created": "2025-07-24T12:19:17.2092755Z",
+  "Updated": "2025-07-24T12:19:17.2092755Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

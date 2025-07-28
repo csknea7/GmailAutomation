@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V1gRobyyp0Ssq8-giK82TA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mail.google.com/mail/u/0" CVScreenId="028c312c-8c30-4f2f-b836-a4d8ce126af9" CvElementArea="16, 269, 166, 75" CvTextArea="86, 297, 65, 21" CvTextArgument="Oluştur" CvType="Button" DesignTimeRectangle="19, 272, 161, 70" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Oluştur' aria-role='button' tag='DIV' /&gt;" Guid="40c121c8-3cef-40f4-a8f9-274e53e22653" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Gelen Kutusu - csknea@gmail.com - Gmail' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="a5e3d8a60aeb931b8e0fb38683666104.png" xmlns="">0oPR91vpLFUO0Eqmdh-YZYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

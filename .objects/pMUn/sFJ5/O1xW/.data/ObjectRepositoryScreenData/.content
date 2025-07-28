@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="f6yq6IPvEEGe_wbytOZpQQ" Reference="XC3kWe2w30m0tYrXqkGbiQ/O1xWCDWek0iIHc9FfhR7Ow" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 1920, 1080" ContentHash="7IWfwV_PBUiIV-pbAE2DTg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGCSURBVFhH7ZexTQNBFERdFxEJuUUFxFThDkCiBGogogmDRIIsQtMCyKDlBg2MZZ4X67jTEtyTXuIdzZ/wPJuY+C9s7o4XnaWHy865a8Zj52gfz1w1DtvHjm7Wn+5jO7vjeCO3D/UZ+PYwL2V9+VKer8oALjwr0NFD9bhXONRbzwp0+FfvT8r76rwbd7GhI3/RswKFWupZgUIt9axAoZZ6VqBQSz0rUKilnhUo1FLPChRqqWcFCrXUswKFWupZgUIt9axAIfn4dF1Ob1ffHxBDqU51003pWYFCcoxxX6qbbkrPChSSVDykdFN6VqCQpNIhpZvSswKFJJUOKd2UnhUoJKl0SOmm9KxAIUmlkrI1qUNSVnpWoJCkUknZmtQhKSs9K1BIUqmkbE3qkJSVnhUoJKlUUrYmdUjKSs8KFJJUKilbkzokZaVnBQpJKpWUrUkdkrLSs0L342I3JKlUUrYmdUjKdv78474PKpV+PhjqkH7uD5VKPx8MdUg/T0xM9GM2+wD5PvADzjDITgAAAABJRU5ErkJggg==" Reference="XC3kWe2w30m0tYrXqkGbiQ/O1xWCDWek0iIHc9FfhR7Ow" Selector="&lt;wnd app='explorer.exe' cls='Progman' title='Program Manager' /&gt;" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="ce47731aa7d662f88d517eb83366a7eb.png" xmlns="">08k0AsR4mXUSruR7C3R4j3Q</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

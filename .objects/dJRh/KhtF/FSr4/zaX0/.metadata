@@ -1,0 +1,14 @@
+﻿{
+  "Name": "E-posta veya telefon",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "zaX0dnvjR0a_wQlBmDuyaA",
+  "Reference": "XC3kWe2w30m0tYrXqkGbiQ/zaX0dnvjR0a_wQlBmDuyaA",
+  "ParentRef": "XC3kWe2w30m0tYrXqkGbiQ/FSr4jYQkJ0m9lYtWVMOwYQ",
+  "Created": "2025-07-24T11:26:34.827976Z",
+  "Updated": "2025-07-24T11:26:34.827976Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

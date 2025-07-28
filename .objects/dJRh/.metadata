@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Yeni Sekme - Google Chrome",
+  "Type": "App",
+  "Id": "dJRhGdzpvUCgOxiBQwh_pg",
+  "Reference": "XC3kWe2w30m0tYrXqkGbiQ/dJRhGdzpvUCgOxiBQwh_pg",
+  "Created": "2025-07-23T12:54:55.6081233Z",
+  "Updated": "2025-07-23T12:54:55.6081233Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

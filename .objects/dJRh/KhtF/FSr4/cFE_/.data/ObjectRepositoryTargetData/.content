@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3rG78su7x0SVXaQiu6Z3jA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="accounts.google.com/v3/signin/identifier" CVScreenId="f6dd8528-b376-4b72-996a-3219b89d4ac0" CvElementArea="1509, 733, 129, 54" CvTextArea="1540, 750, 63, 17" CvTextArgument="Sonraki" CvType="Button" DesignTimeRectangle="1542, 746, 62, 25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='identifierNext' tag='SPAN' type='' class='VfPpkd-vQzf8d' aaname='Sonraki' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Sonraki' /&gt;" Guid="c736673c-0318-4f85-b713-231f507ac4d2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Oturum açın - Google Hesapları' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f6dd8528-b376-4b72-996a-3219b89d4ac0" CvElementArea="1509, 733, 129, 54" CvTextArea="1540, 750, 63, 17" CvTextArgument="Sonraki" CvType="Button" DesignTimeRectangle="1512, 734, 122, 50" ElementType="Button" FuzzySelectorArgument="&lt;webctrl parentid='identifierNext' tag='BUTTON' type='button' class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b' aaname='Sonraki' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Sonraki' /&gt;" Guid="0d936748-d107-4b64-9e04-ab0d321d7dc7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="88ccf3e6138a57b83df2b96ccd2dfb3b.png" xmlns="">0HRGbqNmyUEGCY28nrkZang</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

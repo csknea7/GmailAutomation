@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="L5S0KBXQu0-CgAh0H9hzSA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="accounts.google.com/v3/signin/identifier" CVScreenId="035ca58e-b007-4dad-8501-20350f498127" CvElementArea="1000, 456, 635, 71" CvType="InputBox" DesignTimeRectangle="1002, 460, 630, 65" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='identifierId' tag='INPUT' type='email' class='whsOnd zHQkBf' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="a05946e0-b298-47d0-8945-d5ad86e87b01" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Oturum açın - Google Hesapları' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="035ca58e-b007-4dad-8501-20350f498127" CvTextArea="1015, 441, 140, 18" CvTextArgument="E-posta veya telefon" CvType="Text" DesignTimeRectangle="1009, 434, 155, 33" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='E-posta veya telefon' tag='DIV' type='' class='AxOyFc snByac' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='E-posta veya telefon' /&gt;" Guid="a5c5f35b-cbb4-48e9-88c5-9e3d4f7a16cb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="851c77d56e41b0f0f60436b4c73f7c3a.png" xmlns="">0I3kJWO8UXki1S4y05HU0VA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
